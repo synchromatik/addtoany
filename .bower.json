@@ -1,0 +1,13 @@
+{
+  "name": "AddToAny",
+  "homepage": "https://www.addtoany.com/",
+  "_release": "03bbcd90a8",
+  "_resolution": {
+    "type": "branch",
+    "branch": "master",
+    "commit": "03bbcd90a8931db9a6fb35cde22502a37ac625ba"
+  },
+  "_source": "https://github.com/synchromatik/addtoany.git",
+  "_target": "*",
+  "_originalSource": "https://github.com/synchromatik/addtoany.git"
+}
